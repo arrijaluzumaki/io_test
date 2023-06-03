@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "D:/PIO-WS"
+		},
+		{
+			"name": "blankSTM32",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
